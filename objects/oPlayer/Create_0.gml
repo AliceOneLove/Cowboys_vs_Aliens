@@ -3,3 +3,4 @@
 persistent = true;
 currentLifes = global.allLifes;
 currentAmmo = global.fullAmmo;
+phy_fixed_rotation = true;

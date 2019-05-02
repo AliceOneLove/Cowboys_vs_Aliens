@@ -138,7 +138,7 @@
         "PhysicsWorld": true,
         "PhysicsWorldGravityX": 0,
         "PhysicsWorldGravityY": 10,
-        "PhysicsWorldPixToMeters": 0.1,
+        "PhysicsWorldPixToMeters": 0.02,
         "mvc": "1.0"
     },
     "roomSettings":     {
