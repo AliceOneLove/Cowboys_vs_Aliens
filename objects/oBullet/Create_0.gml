@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-physics_apply_force(x, y, -50, 0);
+phy_fixed_rotation = true;
+physics_apply_impulse(x,y,11*x,-5);

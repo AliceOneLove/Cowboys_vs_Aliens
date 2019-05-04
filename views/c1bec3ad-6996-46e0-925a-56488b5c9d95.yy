@@ -6,7 +6,8 @@
     "children": [
         "5df841ca-45ec-4b67-8a59-be9ffb1dd64f",
         "cceaf913-340e-4733-a8ea-36bdbe0ee5ad",
-        "058ff2e8-3ea8-4946-aee8-f9db139ebd54"
+        "058ff2e8-3ea8-4946-aee8-f9db139ebd54",
+        "1426bd29-b244-45df-80c9-9bebae8b752c"
     ],
     "filterType": "GMSprite",
     "folderName": "Persons",

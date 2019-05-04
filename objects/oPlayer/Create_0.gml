@@ -1,6 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
 persistent = true;
+move_speed = 20;
 currentLifes = global.allLifes;
-currentAmmo = global.fullAmmo;
 phy_fixed_rotation = true;
+pause_fire = false;
