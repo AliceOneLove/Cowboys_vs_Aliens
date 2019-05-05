@@ -79,11 +79,27 @@
             }
         },
         {
+            "Key": "13def737-444d-4707-936f-4bf4f0924035",
+            "Value": {
+                "id": "b83255c7-1bda-4ad2-a458-ce9b697df264",
+                "resourcePath": "sprites\\sBackGroundMount\\sBackGroundMount.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1426bd29-b244-45df-80c9-9bebae8b752c",
             "Value": {
                 "id": "1007ea29-b7ad-4e02-8012-b13fe2752688",
                 "resourcePath": "sprites\\sBullet\\sBullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "195d9471-7770-4059-b089-3bb710c81521",
+            "Value": {
+                "id": "7bcdc2c5-2589-4330-b6e1-9f57c6f55f41",
+                "resourcePath": "objects\\oMount2\\oMount2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -148,6 +164,14 @@
                 "id": "ee8d4810-17d0-4aba-ab4e-af0b41db5e39",
                 "resourcePath": "sprites\\_9_Background\\_9_Background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3d563204-fe0b-401d-a9b0-6e878a532b0f",
+            "Value": {
+                "id": "3322e17e-4221-414e-a1f2-1475a36dc02c",
+                "resourcePath": "objects\\oMount\\oMount.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -439,6 +463,14 @@
             }
         },
         {
+            "Key": "a0ce3999-68e9-46ac-8b01-d75aa925df69",
+            "Value": {
+                "id": "1778a9d9-ba9e-458f-ac87-ceefa0cc3c55",
+                "resourcePath": "sprites\\sBackGroundMount2\\sBackGroundMount2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "2b283b90-521a-4cc4-acb6-2dd282c88b89",
@@ -535,6 +567,14 @@
             }
         },
         {
+            "Key": "c3688dc5-faa8-468f-a33d-c3581b12d6c8",
+            "Value": {
+                "id": "6b012db3-cef2-435c-bfff-b992e5199cf6",
+                "resourcePath": "views\\c3688dc5-faa8-468f-a33d-c3581b12d6c8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c4c17031-4f02-4041-880a-c393dbb55184",
             "Value": {
                 "id": "2b5be077-a56a-4089-940c-48333fd65893",
@@ -559,10 +599,10 @@
             }
         },
         {
-            "Key": "c852149e-4342-4fb3-b8a1-93b2bd39b096",
+            "Key": "cb427dd3-3ff2-406b-a9e6-96dd60a87877",
             "Value": {
-                "id": "36a9db1f-a6da-4cac-87b2-e0524a311d71",
-                "resourcePath": "sprites\\sMainMenuBack\\sMainMenuBack.yy",
+                "id": "d4e7d670-943b-458c-a473-db6a589214db",
+                "resourcePath": "sprites\\sBackGroundClouds\\sBackGroundClouds.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -604,6 +644,14 @@
                 "id": "693f6ed4-c0da-4184-be61-79c21bd5dfa0",
                 "resourcePath": "views\\d12b3239-81cf-40fb-8143-e70b60a56ec4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d18e07de-876b-4130-be96-d54c6009f918",
+            "Value": {
+                "id": "634b2e6b-1c71-483b-85fe-03f961125d0b",
+                "resourcePath": "objects\\oClouds\\oClouds.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -663,6 +711,14 @@
             }
         },
         {
+            "Key": "eb3a7b2d-b007-4259-9555-18dd7ed13886",
+            "Value": {
+                "id": "816e4ebe-7a4b-4721-99d8-70c96948048a",
+                "resourcePath": "objects\\oCactus\\oCactus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ebdb731b-be49-4a68-984b-f387e2ead285",
             "Value": {
                 "id": "02ac5936-abe9-4a83-aa31-77a63e8b5d10",
@@ -684,6 +740,14 @@
                 "id": "7bd150b9-356b-4607-9011-8596a46a7d13",
                 "resourcePath": "objects\\oAlienAbomination\\oAlienAbomination.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f3bf59a3-1ad2-43fe-a855-581c8add5467",
+            "Value": {
+                "id": "c9a72e87-8c40-43c8-9f62-4db0f882bee6",
+                "resourcePath": "sprites\\sBackGroundCactus\\sBackGroundCactus.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
