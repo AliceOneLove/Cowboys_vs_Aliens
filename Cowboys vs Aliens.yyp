@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "3e796643-716e-4c18-a959-1148f5586657",
+            "Value": {
+                "id": "4b767c76-41f1-423a-9a44-5c9ce5241d43",
+                "resourcePath": "scripts\\ShakeScreen\\ShakeScreen.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3faa3916-b047-47ad-8226-bd0522120e29",
             "Value": {
                 "id": "5c244f31-27b9-4d3b-9c59-539b60b4c6e7",
@@ -808,7 +816,7 @@
         }
     ],
     "script_order": [
-        
+        "3e796643-716e-4c18-a959-1148f5586657"
     ],
     "tutorial": ""
 }
