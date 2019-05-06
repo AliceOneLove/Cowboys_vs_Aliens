@@ -5,8 +5,36 @@ if (pause_fire) {
 
 hor = 0;
 
-if (keyboard_check(ord("D"))) hor = 1;
-if (keyboard_check(ord("A"))) hor = -1;
+if (keyboard_check(ord("D"))) { 
+	if (image_xscale < 0) {
+	image_xscale = -image_xscale;
+	}
+	if (with_gun) { 
+		sprite_index = sPlayerGun; 
+	}
+	else {
+		sprite_index = sPlayerRun;
+	}
+	hor = 1;
+	stay = false;
+}
+
+if (keyboard_check(ord("A"))) { 
+	if (image_xscale > 0) {
+	image_xscale = -image_xscale;
+	}
+	if (with_gun) { 
+		sprite_index = sPlayerGun; 
+	}
+	else {
+		sprite_index = sPlayerRun;
+	}
+	hor = -1;
+	stay = false;
+} 
+
+if (stay)
+	sprite_index = sPlayerStand;
 
 hor *= move_speed;
 phy_position_x += hor;

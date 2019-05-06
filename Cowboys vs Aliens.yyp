@@ -111,11 +111,27 @@
             }
         },
         {
+            "Key": "21217a1b-5403-4325-8120-05413ef7c0a5",
+            "Value": {
+                "id": "31705eaf-b6dd-4d39-9067-5ab68aa6068d",
+                "resourcePath": "sprites\\sPlayerGun\\sPlayerGun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "258cb3fc-d6c9-498e-902d-b4e387852086",
             "Value": {
                 "id": "ac6d26d4-b8d1-43aa-9c56-d934c0429285",
                 "resourcePath": "objects\\oBullet\\oBullet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "29c7be53-9f6a-4516-b239-74fd2d95cfb2",
+            "Value": {
+                "id": "e751cf9a-c116-469f-a5b5-6e0ebd658b4c",
+                "resourcePath": "sprites\\sPlayerJump\\sPlayerJump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -282,7 +298,7 @@
             "Key": "5df841ca-45ec-4b67-8a59-be9ffb1dd64f",
             "Value": {
                 "id": "4167d108-8ed2-4803-bcd5-b50f3271d52c",
-                "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
+                "resourcePath": "sprites\\sPlayerRun\\sPlayerRun.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -388,6 +404,14 @@
                 "id": "99261b8f-3d0c-491a-8459-57a40838fae7",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "7faa352f-b787-4bf6-b1b8-3c74e8a3f474",
+            "Value": {
+                "id": "5411e37f-2a91-49a8-b2c8-124ccc368707",
+                "resourcePath": "sprites\\sPlayerStand\\sPlayerStand.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
