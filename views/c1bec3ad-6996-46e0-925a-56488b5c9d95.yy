@@ -10,7 +10,8 @@
         "1426bd29-b244-45df-80c9-9bebae8b752c",
         "7faa352f-b787-4bf6-b1b8-3c74e8a3f474",
         "21217a1b-5403-4325-8120-05413ef7c0a5",
-        "29c7be53-9f6a-4516-b239-74fd2d95cfb2"
+        "29c7be53-9f6a-4516-b239-74fd2d95cfb2",
+        "340c559e-d4a8-45a1-bb39-64c29f5203ad"
     ],
     "filterType": "GMSprite",
     "folderName": "Persons",
