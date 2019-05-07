@@ -1,1 +1,0 @@
-draw_text(500,100, "HP:"+string(oPlayer.currentLifes));

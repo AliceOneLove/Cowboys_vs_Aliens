@@ -1,4 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-health = 2;
-move_speed = 20;
+count = 0;
+this_health = 5;
+move_speed = 5;

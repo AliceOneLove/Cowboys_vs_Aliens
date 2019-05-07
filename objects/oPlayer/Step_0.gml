@@ -1,4 +1,6 @@
-if (currentLifes <= 0) instance_destroy();
+if (currentLifes <= 0)
+	instance_destroy();
+
 hor = 0;
 
 if (keyboard_check(ord("D"))) { 
