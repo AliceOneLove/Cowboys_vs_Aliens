@@ -6,3 +6,4 @@ pause_fire = false;
 stay = true;
 with_gun = false;
 isJump = false;
+damaged = false;

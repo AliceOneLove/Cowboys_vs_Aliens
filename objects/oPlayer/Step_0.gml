@@ -1,8 +1,4 @@
-if (pause_fire) {
-	alarm[0] = 300000;
-	pause_fire = false;
-}
-
+if (currentLifes <= 0) instance_destroy();
 hor = 0;
 
 if (keyboard_check(ord("D"))) { 
