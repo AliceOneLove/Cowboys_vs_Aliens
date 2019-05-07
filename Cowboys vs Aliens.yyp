@@ -122,7 +122,7 @@
             "Key": "258cb3fc-d6c9-498e-902d-b4e387852086",
             "Value": {
                 "id": "ac6d26d4-b8d1-43aa-9c56-d934c0429285",
-                "resourcePath": "objects\\oBullet\\oBullet.yy",
+                "resourcePath": "objects\\oBulletRight\\oBulletRight.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -130,7 +130,7 @@
             "Key": "29c7be53-9f6a-4516-b239-74fd2d95cfb2",
             "Value": {
                 "id": "e751cf9a-c116-469f-a5b5-6e0ebd658b4c",
-                "resourcePath": "sprites\\sPlayerJump\\sPlayerJump.yy",
+                "resourcePath": "sprites\\sPlayerGunJump\\sPlayerGunJump.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -263,11 +263,27 @@
             }
         },
         {
+            "Key": "514e3d7f-f1f0-4c42-baad-a664384bd283",
+            "Value": {
+                "id": "499f0380-8b7d-4f17-9b5c-2f48b8891ac1",
+                "resourcePath": "objects\\oBulletLeft\\oBulletLeft.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "523bf0d3-a218-4b9d-84cd-87bccaf81b25",
             "Value": {
                 "id": "bb74e17e-cd26-41dc-b9ce-6a22a1ec74c5",
                 "resourcePath": "views\\523bf0d3-a218-4b9d-84cd-87bccaf81b25.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "55ed6288-91ba-4102-aab6-7407f10405c9",
+            "Value": {
+                "id": "93ef4c3d-4d4c-4724-a8e0-84b35d6fc650",
+                "resourcePath": "sprites\\sPlayerGunStand\\sPlayerGunStand.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
