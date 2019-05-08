@@ -1,5 +1,5 @@
 if (currentLifes <= 0)
-	instance_destroy();
+	instance_deactivate_object(oPlayer);
 
 hor = 0;
 
