@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0bc22d02-23c0-4ce0-a516-d569d8dc4cc0",
+            "Value": {
+                "id": "a8093253-aa07-4b5a-a502-90b497fec52d",
+                "resourcePath": "views\\0bc22d02-23c0-4ce0-a516-d569d8dc4cc0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0be42481-d428-4511-be53-b6608e0b6dab",
             "Value": {
                 "id": "5ddd5c50-4167-48c9-8fc3-07cc17ec08db",
@@ -287,6 +295,14 @@
             }
         },
         {
+            "Key": "48d1ce8f-183c-4dc0-8c06-881f5b69aade",
+            "Value": {
+                "id": "2cd5c28c-0bec-4c4e-a242-2baa8728827a",
+                "resourcePath": "sprites\\sOurLogo\\sOurLogo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4b2d3a41-2204-47c4-98c0-02869eb287e0",
             "Value": {
                 "id": "128424ca-c702-4c66-b933-e47b1b49231d",
@@ -439,6 +455,14 @@
             }
         },
         {
+            "Key": "7262964c-900b-4bb8-899b-f6ccca490e88",
+            "Value": {
+                "id": "8702e5f6-e09f-46f1-88bc-6c6c1548cf0c",
+                "resourcePath": "sounds\\sound_Main\\sound_Main.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7537d493-550b-498a-9f7e-4632b4de959b",
             "Value": {
                 "id": "440a32e3-a14c-44b2-95b8-ea3d1bd296ac",
@@ -511,6 +535,14 @@
             }
         },
         {
+            "Key": "876862cc-10c1-42f1-ae13-341e2c3008f8",
+            "Value": {
+                "id": "7671330b-1eb2-454d-bb21-f2f7e49a79b6",
+                "resourcePath": "sprites\\sLogoGameMaker\\sLogoGameMaker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "88b26943-53b5-4cd2-8099-d6555a34cb36",
             "Value": {
                 "id": "e12e1ea2-19e3-400f-a47f-3a5aa7ac87b3",
@@ -572,6 +604,22 @@
                 "id": "92f10fca-aa67-40f3-9b1e-3cdc5f8c7f8c",
                 "resourcePath": "sprites\\Desert\\Desert.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9d379a4f-d2e3-488a-b245-568041775909",
+            "Value": {
+                "id": "7b84b610-9dad-4106-a4b1-2e238700d0ec",
+                "resourcePath": "views\\9d379a4f-d2e3-488a-b245-568041775909.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a03b30a5-c4d0-4698-af78-5ed530004bc6",
+            "Value": {
+                "id": "3e3941f9-4eff-483a-9959-e72b00467799",
+                "resourcePath": "objects\\oWelcome2\\oWelcome2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -847,6 +895,14 @@
             }
         },
         {
+            "Key": "e918537a-41c0-4902-a07a-3de83bf57b4c",
+            "Value": {
+                "id": "5e8445ca-e705-4223-9aeb-f96873cd914d",
+                "resourcePath": "sprites\\sLogoGame\\sLogoGame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ea61a930-49b2-4dc5-bfce-3571718f25f9",
             "Value": {
                 "id": "86e18761-8b77-4175-95bb-6eda1a34bdb1",
@@ -876,6 +932,14 @@
                 "id": "6f9e288e-aeab-460b-800f-8b7176f61ebb",
                 "resourcePath": "sprites\\sPlay_againEnter\\sPlay_againEnter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f266228d-85eb-4284-b69e-ac9c0065cbd3",
+            "Value": {
+                "id": "b6eb9668-b1a4-4508-bb0d-691d7ac567f6",
+                "resourcePath": "rooms\\rHello\\rHello.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -927,6 +991,14 @@
             }
         },
         {
+            "Key": "f854268d-df55-41c7-b87f-34495db8cbc5",
+            "Value": {
+                "id": "37f9bdc2-6cd1-41cf-a6cc-26ad3789be84",
+                "resourcePath": "objects\\oWelcome\\oWelcome.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
             "Value": {
                 "id": "c8b3eee6-ceac-4fca-98a1-14f61847b1fc",
@@ -947,6 +1019,14 @@
             "Value": {
                 "id": "54284e52-7efe-49b1-a250-7b62a0b9b744",
                 "resourcePath": "objects\\oViski\\oViski.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fbb9baf4-6925-4695-88c6-7b77edde69c0",
+            "Value": {
+                "id": "24919dae-9cd6-4b06-8a09-16fe874343d3",
+                "resourcePath": "objects\\oWelcome3\\oWelcome3.yy",
                 "resourceType": "GMObject"
             }
         },
