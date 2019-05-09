@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "1ce5e14b-ea3c-4fc5-9e58-eb33ba2fbd35",
+            "Value": {
+                "id": "d4ec3278-35ea-427c-9c60-ca10a6debf24",
+                "resourcePath": "sprites\\_6_SunCheat\\_6_SunCheat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21217a1b-5403-4325-8120-05413ef7c0a5",
             "Value": {
                 "id": "31705eaf-b6dd-4d39-9067-5ab68aa6068d",

@@ -16,7 +16,8 @@
         "fc2b9e06-dc5e-4c21-9267-07ab4fc54d29",
         "3ba1ec09-70e3-4ddf-9605-88cf6274aea5",
         "93da37df-4c5b-45ff-936a-e460819ad5d1",
-        "2c6d9645-1155-4bd5-8bc2-dfc1e0aae478"
+        "2c6d9645-1155-4bd5-8bc2-dfc1e0aae478",
+        "1ce5e14b-ea3c-4fc5-9e58-eb33ba2fbd35"
     ],
     "filterType": "GMSprite",
     "folderName": "BackgroundDesert",
