@@ -55,22 +55,6 @@
             }
         },
         {
-            "Key": "0be42481-d428-4511-be53-b6608e0b6dab",
-            "Value": {
-                "id": "5ddd5c50-4167-48c9-8fc3-07cc17ec08db",
-                "resourcePath": "sprites\\sCollectionButtonEnter\\sCollectionButtonEnter.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "0c79c21e-8978-4d3a-a4d4-c4b05d340608",
-            "Value": {
-                "id": "13c750a2-aade-4662-bb69-13c2d4d2fcc9",
-                "resourcePath": "sprites\\sTrainingButton\\sTrainingButton.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0dbc22f6-9853-4eaa-9fab-b2bb4c57725a",
             "Value": {
                 "id": "2535f24e-bf65-4147-98f6-33cab793d452",
@@ -83,14 +67,6 @@
             "Value": {
                 "id": "7291e640-5c12-46e6-bb02-1190e184bb00",
                 "resourcePath": "sprites\\sprite52\\sprite52.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "13912798-1c3f-4952-b068-308e4bd13e1d",
-            "Value": {
-                "id": "9153203f-6f1d-4396-92e6-26b1d22c55fc",
-                "resourcePath": "sprites\\sTrainingButtonEnter\\sTrainingButtonEnter.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -124,14 +100,6 @@
                 "id": "7bcdc2c5-2589-4330-b6e1-9f57c6f55f41",
                 "resourcePath": "objects\\oMount2\\oMount2.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "1badb0a5-a275-4b75-88a9-1b600dcf3aab",
-            "Value": {
-                "id": "d3f711cf-d1b3-4d47-88b2-01974a6dd825",
-                "resourcePath": "sprites\\sScoresButton\\sScoresButton.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -204,6 +172,14 @@
                 "id": "dc48bec9-1989-4577-9ae6-93faf29fc883",
                 "resourcePath": "objects\\oMainMenu\\oMainMenu.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "30ad1c21-f950-465b-909b-39fb3e4ccb05",
+            "Value": {
+                "id": "303fad26-4ba5-44fa-b5ff-4471ef08d7f2",
+                "resourcePath": "sprites\\sContinue\\sContinue.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,14 +279,6 @@
             }
         },
         {
-            "Key": "47d8da6b-0217-4b24-abc4-b5379b1c2f49",
-            "Value": {
-                "id": "51998935-3f5c-48c9-825e-a56b39074072",
-                "resourcePath": "sprites\\sPlay_again\\sPlay_again.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "48d1ce8f-183c-4dc0-8c06-881f5b69aade",
             "Value": {
                 "id": "2cd5c28c-0bec-4c4e-a242-2baa8728827a",
@@ -391,14 +359,6 @@
             }
         },
         {
-            "Key": "5ed9aebd-b021-4525-92e5-1a57e2cd2b41",
-            "Value": {
-                "id": "6b088b69-d55e-431f-9139-5775f3e89255",
-                "resourcePath": "sprites\\sBackButton\\sBackButton.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "5ee3ea42-5cbb-4fe7-9c39-47a6f0a1fef8",
             "Value": {
                 "id": "e45edf30-624b-4d4c-bb28-d1b0a27156b1",
@@ -447,6 +407,14 @@
             }
         },
         {
+            "Key": "6d07b1db-2718-4bc6-97cb-bd999acebb7b",
+            "Value": {
+                "id": "b1eaf598-df57-43b4-a5ac-639ed2cd43fd",
+                "resourcePath": "sounds\\sound_Play\\sound_Play.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6e65643f-22da-4067-a346-c9c86fbb1bdf",
             "Value": {
                 "id": "33b85d8e-be5b-4bbe-9ba9-7cba480680fc",
@@ -460,14 +428,6 @@
                 "id": "8702e5f6-e09f-46f1-88bc-6c6c1548cf0c",
                 "resourcePath": "sounds\\sound_Main\\sound_Main.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "7537d493-550b-498a-9f7e-4632b4de959b",
-            "Value": {
-                "id": "440a32e3-a14c-44b2-95b8-ea3d1bd296ac",
-                "resourcePath": "sprites\\sScoresButtonEnter\\sScoresButtonEnter.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -623,14 +583,6 @@
             }
         },
         {
-            "Key": "a142e173-4424-4907-bfb2-a663c305a949",
-            "Value": {
-                "id": "2c993323-fee9-4fcd-8139-84907f479eb7",
-                "resourcePath": "sprites\\sBackButtonEnter\\sBackButtonEnter.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a4c04127-ff49-4241-968c-acc8a7cea81f",
             "Value": {
                 "id": "11602d62-3781-4a4d-b831-aed42c97301c",
@@ -775,6 +727,14 @@
             }
         },
         {
+            "Key": "cb9e40b6-4ff8-47c5-ae42-7f25abc7591f",
+            "Value": {
+                "id": "7d4d8766-69c8-4c6f-9459-01ecb9a6c82a",
+                "resourcePath": "objects\\oPauseButton\\oPauseButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "e43782e1-fe19-4b61-966d-1dd61bedc046",
@@ -839,19 +799,19 @@
             }
         },
         {
-            "Key": "da98b79e-3353-4a37-a46c-ca82cd867fce",
-            "Value": {
-                "id": "a95b6901-2ffc-4d23-a1c5-e453a65298d0",
-                "resourcePath": "sprites\\sCollectionButton\\sCollectionButton.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "7232f211-848b-4f58-a2c2-382dd317fb94",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e79a5ec3-bb16-4349-b44d-9f053e0cfec2",
+            "Value": {
+                "id": "fcfa7864-7f5b-4d3a-951e-3c4d8879feed",
+                "resourcePath": "views\\e79a5ec3-bb16-4349-b44d-9f053e0cfec2.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -884,14 +844,6 @@
                 "id": "02ac5936-abe9-4a83-aa31-77a63e8b5d10",
                 "resourcePath": "rooms\\rMainMenu\\rMainMenu.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "f25594c9-4129-4b3b-810c-d5f85f0672c0",
-            "Value": {
-                "id": "6f9e288e-aeab-460b-800f-8b7176f61ebb",
-                "resourcePath": "sprites\\sPlay_againEnter\\sPlay_againEnter.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

@@ -1,5 +1,8 @@
-if (currentLifes <= 0)
-	instance_deactivate_object(oPlayer);
+if (currentLifes <= 0) {
+	instance_destroy();
+	audio_stop_all();
+	room = rMainMenu;
+}
 
 hor = 0;
 
