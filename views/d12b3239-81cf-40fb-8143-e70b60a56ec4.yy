@@ -5,7 +5,8 @@
     "name": "d12b3239-81cf-40fb-8143-e70b60a56ec4",
     "children": [
         "a4c04127-ff49-4241-968c-acc8a7cea81f",
-        "88b26943-53b5-4cd2-8099-d6555a34cb36"
+        "88b26943-53b5-4cd2-8099-d6555a34cb36",
+        "4dcb54a2-5253-4735-b181-21e7bff554f6"
     ],
     "filterType": "GMObject",
     "folderName": "Desert",

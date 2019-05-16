@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "112f2fec-a522-4509-b970-0a8bef077a88",
+            "Value": {
+                "id": "7291e640-5c12-46e6-bb02-1190e184bb00",
+                "resourcePath": "sprites\\sprite52\\sprite52.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "13912798-1c3f-4952-b068-308e4bd13e1d",
             "Value": {
                 "id": "9153203f-6f1d-4396-92e6-26b1d22c55fc",
@@ -316,6 +324,14 @@
                 "id": "128424ca-c702-4c66-b933-e47b1b49231d",
                 "resourcePath": "sprites\\sExitEnter\\sExitEnter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4dcb54a2-5253-4735-b181-21e7bff554f6",
+            "Value": {
+                "id": "a9d225a7-cc48-4843-bda2-cc18e0ca052e",
+                "resourcePath": "objects\\oEnemySpawn\\oEnemySpawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -675,6 +691,14 @@
             "Value": {
                 "id": "0db5824b-c46e-4218-8510-b217545075fe",
                 "resourcePath": "sprites\\Viski\\Viski.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bb97a6a8-fd6b-48de-b0d3-6d2a0c2a3e9c",
+            "Value": {
+                "id": "5b1a1a57-f8b6-4ecc-a260-17b215cbe990",
+                "resourcePath": "sprites\\flash\\flash.yy",
                 "resourceType": "GMSprite"
             }
         },
