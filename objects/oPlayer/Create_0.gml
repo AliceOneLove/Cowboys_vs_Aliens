@@ -8,3 +8,4 @@ with_gun = false;
 isJump = false;
 damaged = false;
 can_shoot = true;
+count = 0;
