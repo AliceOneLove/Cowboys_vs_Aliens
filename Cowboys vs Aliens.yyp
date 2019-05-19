@@ -679,6 +679,14 @@
             }
         },
         {
+            "Key": "ace6e1c3-6610-43c1-b664-1166a0c94a73",
+            "Value": {
+                "id": "fce7017e-a8f1-4e59-bd27-91116c5a1fb0",
+                "resourcePath": "objects\\oLogo\\oLogo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "af446626-2bfe-45b2-91fc-804dcbc1da8b",
             "Value": {
                 "id": "39576eb1-f39c-47c6-9a37-cae48f35876c",
@@ -687,11 +695,27 @@
             }
         },
         {
+            "Key": "b244d2e6-2cc0-4f01-9ad0-ca118369df99",
+            "Value": {
+                "id": "dd87ed9f-f04c-45cf-91ed-2e39b6da9030",
+                "resourcePath": "objects\\oSkipButton\\oSkipButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b47d0bcf-f834-4156-8f9d-b50cd6355c6f",
             "Value": {
                 "id": "18425fad-d80a-403b-b036-0abf1dea9a45",
                 "resourcePath": "sounds\\sound_Shoot\\sound_Shoot.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b47e034a-c586-48be-9e9c-5e4694d27cc2",
+            "Value": {
+                "id": "cb7ec2b9-8d2b-4af2-ad33-3c0072e94b7d",
+                "resourcePath": "objects\\oSkipWelcomeScreen\\oSkipWelcomeScreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -788,6 +812,14 @@
                 "id": "7d4d8766-69c8-4c6f-9459-01ecb9a6c82a",
                 "resourcePath": "objects\\oPauseButton\\oPauseButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cc7eed51-424e-4caf-af5a-5fc9a9aeac07",
+            "Value": {
+                "id": "45d8b689-2b6d-42fe-bfbd-56938d45fb4e",
+                "resourcePath": "sprites\\sLogo\\sLogo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

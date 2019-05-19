@@ -10,7 +10,8 @@
         "2c125128-26dd-4bf0-ab0f-aa9a5a4d2555",
         "7b8c1cfb-9e9d-495d-9dc4-1eb864bea6c1",
         "cdb4a848-ead5-45c4-bd42-3cfcd762bbef",
-        "67f272a7-79c1-4678-9c72-433e5a6d45fe"
+        "67f272a7-79c1-4678-9c72-433e5a6d45fe",
+        "cc7eed51-424e-4caf-af5a-5fc9a9aeac07"
     ],
     "filterType": "GMSprite",
     "folderName": "WelcomeMenu",

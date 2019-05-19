@@ -10,7 +10,9 @@
         "fe1fb78b-a829-435a-b86c-e7028897f1d0",
         "9f666b55-25b9-4156-aeea-d7e6397f7181",
         "02153a26-f59c-4fff-85d9-fde58f621ab8",
-        "e91c8e7b-6ee1-4cdd-9b33-6022848c37e5"
+        "e91c8e7b-6ee1-4cdd-9b33-6022848c37e5",
+        "b47e034a-c586-48be-9e9c-5e4694d27cc2",
+        "b244d2e6-2cc0-4f01-9ad0-ca118369df99"
     ],
     "filterType": "GMObject",
     "folderName": "WelcomeScreen",
